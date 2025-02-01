@@ -14,7 +14,7 @@ function selectOption(option) {
             title.textContent = "YAYYYY IM EXCITED!! (to be with you of course)";
             title.style.fontSize = "50px"; // Adjust styling
             title.style.textAlign = "center";
-            title.style.marginTop = "-300px";
+            title.style.marginTop = "-400px";
             title.style.fontFamily = "'Sacramento', cursive";
             let message = document.createElement("p");
             message.textContent = "Mi amor please tell me where through text!, I love you :)";
@@ -37,7 +37,7 @@ function selectOption(option) {
             title.textContent = "YAYYYY IM EXCITED!! (to be with you of course)";
             title.style.fontSize = "50px"; // Adjust styling
             title.style.textAlign = "center";
-            title.style.marginTop = "-300px";
+            title.style.marginTop = "-400px";
             title.style.fontFamily = "'Sacramento', cursive";
             let message = document.createElement("p");
             message.textContent = "Mi amor please tell me where you would want to go and what you want me to bring with through text, I love you :)";
@@ -61,7 +61,7 @@ function selectOption(option) {
             title.textContent = "YAYYYY IM EXCITED!! (to be with you of course)";
             title.style.fontSize = "50px"; // Adjust styling
             title.style.textAlign = "center";
-            title.style.marginTop = "-300px";
+            title.style.marginTop = "-400px";
             title.style.fontFamily = "'Sacramento', cursive";
             let message = document.createElement("p");
             message.textContent = "Mi amor tell me where we would go! I want to know all about it through text, I love you :)";
@@ -84,7 +84,7 @@ function selectOption(option) {
             title.textContent = "YAYYYY IM EXCITED!! (to be with you of course)";
             title.style.fontSize = "50px"; // Adjust styling
             title.style.textAlign = "center";
-            title.style.marginTop = "-300px";
+            title.style.marginTop = "-400px";
             title.style.fontFamily = "'Sacramento', cursive";
             let message = document.createElement("p");
             message.textContent = "Mi amor tell me what I would need to bring through text, I love you :)";
@@ -148,7 +148,7 @@ function displayCatHeart() {
     var catHeartImage = new Image();
     // Set the source (file path) for the cat-heart image
     catHeartImage.style.position = "relative"
-    catHeartImage.style.top = "-100px";
+    catHeartImage.style.top = "-200px";
     catHeartImage.src = 'cat-heart.gif'; // Assuming the cat-heart image is named "cat-heart.gif"
     
     // Set alternative text for the image (for accessibility)
